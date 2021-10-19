@@ -1,0 +1,12 @@
+# Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+n = int(input('Número: '))
+print('{} * 1 = {}'.format(n, str(n*1)))
+print('{} * 2 = {}'.format(n, str(n*2)))
+print('{} * 3 = {}'.format(n, str(n*3)))
+print('{} * 4 = {}'.format(n, str(n*4)))
+print('{} * 5 = {}'.format(n, str(n*5)))
+print('{} * 6 = {}'.format(n, str(n*6)))
+print('{} * 7 = {}'.format(n, str(n*7)))
+print('{} * 8 = {}'.format(n, str(n*8)))
+print('{} * 9 = {}'.format(n, str(n*9)))
+print('{} * 10= {}'.format(n, str(n*10)))
